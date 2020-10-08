@@ -8,4 +8,4 @@
 긍정적인 마인드로 삶을 살아가고 있으며, 공동체 생활을 선호합니다<br/>
 
 </div>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/Subin-Lee-e350e956398e400ab226278f9b0c3d1d/)]
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
