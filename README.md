@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBinveloper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBinveloper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  
 만나뵙게 되어 반갑습니다. 👋
 끝임없이 도전하고 변화를 통해 성장하는 입니다.
 사용자에게 편리한 인터페이스, 아름다운 UI구현을 위해 노력하며,
