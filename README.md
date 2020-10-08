@@ -1,6 +1,6 @@
 <div align="center">  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBinveloper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" style="align-center"/></a><br/>
-만나뵙게 되어 반갑습니다. 👋<br/>
+  <h3>Web Developer, LeeSubin</h3> <br/>
 끝임없이 도전하고 변화를 통해 성장하는 입니다.<br/>
 사용자에게 편리한 인터페이스, 아름다운 UI구현을 위해 노력하며,<br/>
 나 혼자가 아닌, 동료분들의 성장을 위해 항상 노력하는 개발자 입니다.<br/>
