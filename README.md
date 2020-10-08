@@ -9,8 +9,7 @@
 </div>
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=resume&link=https://www.notion.so/Subin-Lee-e350e956398e400ab226278f9b0c3d1d/)](https://www.notion.so/Subin-Lee-e350e956398e400ab226278f9b0c3d1d/) 
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=resume&link=https://www.notion.so/Subin-Lee-e350e956398e400ab226278f9b0c3d1d/)](https://www.notion.so/Subin-Lee-e350e956398e400ab226278f9b0c3d1d/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seeroocee@gmail.com)](mailto:seeroocee@gmail.com)
 
 </div>
